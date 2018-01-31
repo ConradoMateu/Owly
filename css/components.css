@@ -1,0 +1,40 @@
+
+.checked {
+    color: orange;
+}
+
+
+@media (min-width: 200px){
+    .star-fa{
+        font-size: 1em;
+    }
+
+    .text-custom{
+        padding-left: 15px;
+        text-align: center!important
+    }
+
+    .owly{
+        padding: 15px;
+    }
+
+
+}
+
+@media (min-width: 992px){
+    .star-fa{
+        font-size: 2em;
+    }
+    .star-text{
+        padding-left: 40px;
+    }
+
+    .text-custom{
+        text-align: left!important
+    }
+    
+    
+}
+
+
+
