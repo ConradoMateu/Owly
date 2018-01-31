@@ -1,19 +1,4 @@
 
-@media (min-width: 200px){
-    .text-custom{
-        padding-left: 15px;
-        text-align: center!important
-    }
-
-}
-
-@media (min-width: 992px){
-    .text-custom{
-        text-align: left!important
-    }
-    
-}
-
 .checked {
     color: orange;
 }
@@ -24,19 +9,32 @@
         font-size: 1em;
     }
 
+    .text-custom{
+        padding-left: 15px;
+        text-align: center!important
+    }
+
+    .owly{
+        padding: 15px;
+    }
+
+
 }
 
 @media (min-width: 992px){
     .star-fa{
         font-size: 2em;
     }
-    
-}
-
-@media (min-width: 992px){
     .star-text{
         padding-left: 40px;
     }
+
+    .text-custom{
+        text-align: left!important
+    }
+    
     
 }
+
+
 
